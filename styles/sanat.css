@@ -1,0 +1,47 @@
+body{
+  background-color: rgb(250, 204, 144);
+}
+
+
+.x{
+  text-decoration: none;
+  cursor: pointer;
+  color: rgb(248, 234, 219);
+}
+.x:hover{
+  text-decoration: underline;
+}
+.red{
+  color: red;
+}
+.red:hover{
+  text-decoration: underline;
+}
+.metin1{
+  font-size: large;
+  background-color: rgb(202, 113, 12);
+  color: rgb(32, 41, 51);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 5px;
+  width: 450px;
+  text-align: center;
+  margin:auto;     
+}
+.govde1{
+  
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+  line-height: 50px;
+  color: rgb(202, 113, 12);
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.metin2{
+ 
+ font-family: 'Redacted Script', cursive;
+}
